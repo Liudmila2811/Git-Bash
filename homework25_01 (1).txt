@@ -1,0 +1,13 @@
+Написать запросы в Postman для создания, получения, изменения и удаления следующих сущностей:
+
+Workspace
+Project
+Client
+Tag
+Task
+TimeEntry
+User
+Group
+
+Название сервиса API: https://clockify.me/developers-api
+Сохраните ваше рабочее пространство в формате json и разместите на github.
